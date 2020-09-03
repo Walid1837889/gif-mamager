@@ -34,6 +34,6 @@ exports.conf = {
 
 exports.help = {
   name: 'ping',
-  description: 'lrowsxrd',
+  description: 'rexuss',
   usage: 'ping'
 };

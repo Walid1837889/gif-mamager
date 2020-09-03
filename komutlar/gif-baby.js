@@ -36,7 +36,7 @@ exports.help = {
 
   name: 'baby',
 
-  description: 'lrowsxrd',
+  description: 'rexuss',
 
   usage: 'baby'
 

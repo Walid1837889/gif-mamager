@@ -35,6 +35,6 @@ exports.conf = {
 
 exports.help = {
   name: 'kullanıcı',
-  description: 'Darknes Code',
+  description: 'rexuss',
   usage: 'kullanıcı'
 };

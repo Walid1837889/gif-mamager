@@ -40,6 +40,6 @@ exports.conf = {
 
 exports.help = {
   name: "istatistik",
-  description: "lrowsxrd",
+  description: "rexuss",
   usage: "istatistik"
 };

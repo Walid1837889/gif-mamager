@@ -94,6 +94,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'kullanıcıbilgim',
-  description: 'lrowsxrd',
+  description: 'rexuss',
   usage: 'kullanıcıbilgim'
 };

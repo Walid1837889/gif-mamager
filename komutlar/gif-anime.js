@@ -36,7 +36,7 @@ exports.help = {
 
   name: 'anime',
 
-  description: 'lrowsxrd',
+  description: 'rexuss',
 
   usage: 'anime'
 

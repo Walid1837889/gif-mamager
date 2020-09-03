@@ -31,6 +31,6 @@ guildOnly: true
 
 module.exports.help = {
 name: 'sunucubilgi',
-description: 'lrowsxrd',
+  description: 'rexuss',
 usage: 'sunucubilgi'
 };

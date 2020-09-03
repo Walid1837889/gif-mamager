@@ -27,6 +27,6 @@ exports.conf = {
 
 exports.help = {
   name: 'davet',
-  description: 'lrowsxrd',
+  description: 'rexuss',
   usage: 'davet'
 }; 

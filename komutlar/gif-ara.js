@@ -88,7 +88,7 @@ exports.help = {
 
   name: 'gif-ara',
 
-  description: "lrowsxrd",
+  description: "rexuss",
 
   usage: 'gif-ara'
 

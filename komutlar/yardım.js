@@ -9,13 +9,13 @@ const embed = new Discord.MessageEmbed()
     
 .setColor('BLACK') 
 .addField(`:white_check_mark: Darknes Gif Bot Altyapısı :white_check_mark:`,
- `LROWSXRD GIF BOT V12 ALTYAPI             
+ `GIF -help            
 -**gif-ara** Yazdığınız Kelime Hakkında Gif Aratır!
--**man-gif** Rastgele Erkek Gifi Atar!
--**woman-gif** Rastgele Kadın Gifi Atar!
--**couple-gif** Rastgele Sevgili Gifi Atar!
--**baby-gif** Rastgele Bebek Gifi Atar!
--**animal-gif** Rastgele Hayvan Gifi Atar!
+-**man** Rastgele Erkek Gifi Atar!
+-**woman** Rastgele Kadın Gifi Atar!
+-**couple* Rastgele Sevgili Gifi Atar!
+-**baby** Rastgele Bebek Gifi Atar!
+-**animal** Rastgele Hayvan Gifi Atar!
 
 :white_check_mark: **Ekstra** :white_check_mark:
 
@@ -40,6 +40,6 @@ permLevel: 0
 
 exports.help = {
   name: 'yardım',
-  description: 'Darknes Code',
+  description: 'rexuss',
   usage: 'yardım'
 };
