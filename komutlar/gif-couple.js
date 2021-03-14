@@ -8,9 +8,9 @@ let result = Math.floor((Math.random() * replies.length));
 
 let gifembed = new Discord.MessageEmbed()
 
-.setTitle("Couple Gif ;")
+.setTitle("Couple")
 
-.setColor("BLACK")
+.setColor("RANDOM")
 
 .setFooter(`${message.author.tag} `, message.author.avatarURL)
 
