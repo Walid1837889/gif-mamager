@@ -12,7 +12,7 @@ exports.run = async (bot, message, args) => {
   
   const istatistikler = new Discord.MessageEmbed()
   
-  .setColor('BLACK')
+  .setColor('RANDOM')
   
   .setFooter('Bot İsmi', bot.user.avatarURL)
   

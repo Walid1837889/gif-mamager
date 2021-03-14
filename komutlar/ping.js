@@ -5,7 +5,7 @@ exports.run = async (app, message, client) => {
   
 const darknes = new Discord.MessageEmbed()
 
-.setColor("BLACK")
+.setColor("RANDOM")
 .setDescription('Ping Hesaplanıyor...')
 
 let start = Date.now(); 

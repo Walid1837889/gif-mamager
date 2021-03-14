@@ -12,7 +12,7 @@ const embed = new Discord.MessageEmbed()
 .setDescription(`**Botun Davet Linki ;** [TIKLA](BOTUNUZUN DAVET LINKI) \n**Destek Sunucusu ;** [TIKLA](BOTUNUZUN DAVET LINKI)`) 
 .setThumbnail(client.user.avatarURL)
 .setFooter(`${message.author.username} Başarıyla Davet Sistemi Kullandı!`, message.author.avatarURL)
-.setColor(`BLACK`)
+.setColor(`RANDOM`)
 
 return message.channel.send(embed)
   
