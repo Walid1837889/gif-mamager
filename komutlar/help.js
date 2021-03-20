@@ -9,18 +9,22 @@ const embed = new Discord.MessageEmbed()
     
 .setColor('RANDOM') 
 .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
-.setDescription(`**[support](https://discord.gg/AQgmEJ2)** - [invite](https://discordapp.com/oauth2/authorize?client_id=743085172085358683&scope=bot&permissions=8)`)
+.setImage('https://media.discordapp.net/attachments/711465242798063706/801076445564502046/a_75e90ca13d798a0f6a85a334a457c0d1.gif')
+.setThumbnail(`https://cdn.discordapp.com/avatars/794936259767566376/283349b4730cea96fa117da15772fd3e.png?size=1024`)
 .addField(`Gif Bot`,
- `-Boy
-  -Girl
-  -cuople
-  -baby
-  -anime
-  -neon
-  -emoji
-  -smoking
+ `*boy
+  *girl
+  *cuople
+  *baby
+  *anime
+  *neon
+  *emoji
+  *smoking
   -animals
-  -aesthetic`)
+  -aesthetic
+  -avatar
+  -about
+  -ping`)
     
 message.channel.send({embed});
 }
