@@ -10,7 +10,7 @@ let gifembed = new Discord.MessageEmbed()
 
 .setTitle("Boy")
 
-.setColor("RANDOM")
+.setColor("BLACK")
 
 .setFooter(`${message.author.tag} `, message.author.avatarURL)
 
