@@ -7,26 +7,11 @@ exports.run = async (client, message, args, msg) => {
 
 const embed = new Discord.MessageEmbed()
     
-.setColor('BLACK') 
-.addField(`:white_check_mark: Darknes Gif Bot Altyapısı :white_check_mark:`,
- `GIF -help            
-!**gif-ara** Yazdığınız Kelime Hakkında Gif Aratır!
-!**man** Rastgele Erkek Gifi Atar!
-!**woman** Rastgele Kadın Gifi Atar!
-!**couple* Rastgele Sevgili Gifi Atar!
-!**baby** Rastgele Bebek Gifi Atar!
-!**animal** Rastgele Hayvan Gifi Atar!
-
-:white_check_mark: **Ekstra** :white_check_mark:
-
-!**yardım-kullanıcı** Kullanıcı Komutlarını Gösterir!
-
-:white_check_mark: **Dikkat** :white_check_mark:
-
-:white_check_mark: **Linkler** :white_check_mark:
-
-[Botun Destek Sunucusuna Gitmek İçin Tıkla](BOTUNUZUN DAVET LİNKİ)    
-[Botu Eklemek İçin Tıkla](BOTUNUZUN DAVET LİNKİ)`)
+.setColor('RANDOM') 
+.addField(`Gif Bot`,
+ `-Boy
+  -Girl
+  -`)
     
 message.channel.send({embed});
 }
