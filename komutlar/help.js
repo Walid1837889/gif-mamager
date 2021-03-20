@@ -20,11 +20,11 @@ const embed = new Discord.MessageEmbed()
   *neon
   *emoji
   *smoking
-  -animals
-  -aesthetic
-  -avatar
-  -about
-  -ping`)
+  *animals
+  *aesthetic
+  *avatar
+  *about
+  *ping`)
     
 message.channel.send({embed});
 }

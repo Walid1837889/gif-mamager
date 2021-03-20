@@ -11,7 +11,8 @@ else {user = message.author;}
   
 return message.channel.send(new Discord.MessageEmbed()
                             
-.setDescription(`**${user.tag}** Avatarın;`)
+.setDescription(`**${user.tag}**`)
+.setColor(`RANDOM`)
 .setImage(user.avatarURL()))
   
 };
