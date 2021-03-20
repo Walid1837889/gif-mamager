@@ -11,7 +11,14 @@ const embed = new Discord.MessageEmbed()
 .addField(`Gif Bot`,
  `-Boy
   -Girl
-  -`)
+  -cuople
+  -baby
+  -anime
+  -neon
+  -emoji
+  -smoking
+  -animals
+  -aesthetic`)
     
 message.channel.send({embed});
 }
