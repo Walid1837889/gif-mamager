@@ -8,6 +8,8 @@ exports.run = async (client, message, args, msg) => {
 const embed = new Discord.MessageEmbed()
     
 .setColor('RANDOM') 
+.setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
+.setDescription(`**[support](https://discord.gg/AQgmEJ2)** - [invite](https://discordapp.com/oauth2/authorize?client_id=743085172085358683&scope=bot&permissions=8)`)
 .addField(`Gif Bot`,
  `-Boy
   -Girl
@@ -31,7 +33,7 @@ permLevel: 0
 };
 
 exports.help = {
-  name: 'yardım',
+  name: 'help',
   description: 'rexuss',
-  usage: 'yardım'
+  usage: 'help'
 };
