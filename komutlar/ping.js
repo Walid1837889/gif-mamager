@@ -6,7 +6,7 @@ exports.run = async (app, message, client) => {
 const darknes = new Discord.MessageEmbed()
 
 .setColor("RANDOM")
-.setDescription('Ping Hesaplanıyor...')
+.setDescription('Ping')
 
 let start = Date.now(); 
 let mesaj = await message.channel.send(darknes)

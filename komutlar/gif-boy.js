@@ -8,7 +8,7 @@ let result = Math.floor((Math.random() * replies.length));
   
 let gifembed = new Discord.MessageEmbed()
 
-.setTitle("man")
+.setTitle("boy")
 
 .setColor("BLACK")
 
@@ -26,7 +26,7 @@ exports.conf = {
 
   guildOnly: false,
 
-  aliases: ['gif-man','man-gif','gifman','mangif'],
+  aliases: ['gif-boy','boy-gif','gifboy','boygif'],
 
   permLevel: 0
 
@@ -34,10 +34,10 @@ exports.conf = {
 
 exports.help = {
 
-  name: 'man',
+  name: 'boy',
 
   description: 'rexuss',
 
-  usage: 'man'
+  usage: 'boy'
 
 };
