@@ -10,7 +10,7 @@ let gifembed = new Discord.MessageEmbed()
 
 .setTitle("Couple Gif ;")
 
-.setColor("BLACK")
+.setColor("RANDOM")
 
 .setFooter(`${message.author.tag} `, message.author.avatarURL)
 
