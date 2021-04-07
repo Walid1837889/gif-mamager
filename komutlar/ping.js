@@ -17,7 +17,8 @@ setInterval(() => {
         
 const only = new Discord.MessageEmbed()
 
-.setDescription(`\nMesaj Gecikme Süresi ; **${diff}ms** \n\nBot Gecikme Süresi ; **${API}ms**`)
+.setDescription(`**${diff}ms**
+**${API}ms**`)
 
 mesaj.edit(only);
       
